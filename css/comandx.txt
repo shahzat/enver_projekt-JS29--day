@@ -1,0 +1,11 @@
+ls(list)-вывщдит список содержимого в папке
+cd (change derectory) переход между папками
+sd../ - переход на одну папку назад 
+ctrl
+pwd (path working direktori) абсалютный путь к папке в которой в нх
+ls -a показать содержимое папки 
+rm -rf .git ()
+git init(инициализация git репозитория)
+git remote add origin <ssh-url>
+git remote -v -п
+
